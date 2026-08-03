@@ -61,7 +61,9 @@ HDFCBANK.NS,6.77
 ```
 
 Weights are normalized automatically. NSE tickers require a `.NS` suffix.
+# Portfolio Risk & Performance Analyzer
 
+**[Live demo](https://portfolio-risk-analyzer-cng3jupvgtopxxpegg2xcx.streamlit.app/)**
 ## Limitations
 
 - Trailing volatility is a poor predictor of forward risk; correlations
